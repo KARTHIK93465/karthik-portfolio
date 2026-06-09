@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/karthik-portfolio/static/css/main.4f989238.css",
+    "main.js": "/karthik-portfolio/static/js/main.95936cae.js",
+    "static/js/415.4d6acbeb.chunk.js": "/karthik-portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/karthik-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/DEMtop.png": "/karthik-portfolio/static/media/DEMtop.7fb2383b88684234b994.png",
+    "static/media/Travel.png": "/karthik-portfolio/static/media/Travel.0c5a69e691042bb73e68.png",
+    "static/media/wp7250087.webp": "/karthik-portfolio/static/media/wp7250087.a2e8ce80f37ef7e3e9db.webp",
+    "static/media/Profot.png": "/karthik-portfolio/static/media/Profot.422a6364e32b6512d485.png",
+    "static/media/Maya.jpg": "/karthik-portfolio/static/media/Maya.720202ceed3e4fbab246.jpg",
+    "static/media/home-main.svg": "/karthik-portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/karthik-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/KESABOINA SATYA SAI VENKATA KARTHIK RESUME .pdf": "/karthik-portfolio/static/media/KESABOINA SATYA SAI VENKATA KARTHIK RESUME .02c1d25d80fdb3c836f9.pdf",
+    "static/media/home-bg.jpg": "/karthik-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/Python-Symbol.png": "/karthik-portfolio/static/media/Python-Symbol.212de8d7278260fca353.png",
+    "static/media/a.png": "/karthik-portfolio/static/media/a.828ff54e8be659e6f45f.png",
+    "static/media/avatar.svg": "/karthik-portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/karthik-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/karthik-portfolio/index.html",
+    "main.4f989238.css.map": "/karthik-portfolio/static/css/main.4f989238.css.map",
+    "main.95936cae.js.map": "/karthik-portfolio/static/js/main.95936cae.js.map",
+    "415.4d6acbeb.chunk.js.map": "/karthik-portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/karthik-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f989238.css",
+    "static/js/main.95936cae.js"
+  ]
+}
